@@ -1,0 +1,50 @@
+body{
+	background: #222222;
+	border: 3px solid;
+	border-color: gold;
+}
+img{
+	width: 150px;
+	padding: 5px;
+	border: 2px solid;
+	border-color: gold;
+	border-radius: 3px;
+}
+h1{
+	font-size: 3em;
+	padding: 5px;
+	text-align: center;
+	background:purple;
+	border: 3px solid;
+	border-color: gold;
+	border-bottom-width: 6px;
+}
+table{
+	margin: 30px auto;
+	background: black;
+	padding: 10px;
+	border: 20px solid;
+	border-radius: 10px;
+}
+th{
+	text-align: left;
+	font-size: 1.5em;
+	font-style: italic;
+	color: white;
+	background: black;
+	padding: 5px;
+}
+td{
+	padding: 3px;
+}
+footer{
+	text-align: center;
+	padding: 5px;
+	background:purple;
+	border: 3px solid;
+	border-color: gold;
+	border-top-width: 6px;
+}
+img:hover{
+	border-color: purple;
+}
